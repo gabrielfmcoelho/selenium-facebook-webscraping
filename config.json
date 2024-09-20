@@ -1,0 +1,84 @@
+{
+    "credentials": {
+        "email": "hikaroeduardo",
+        "password": "32206672"
+    },
+    "tags": [
+        {
+            "tagname": "floriano",
+            "articles_limit": 40
+        },
+        {
+            "tagname": "picos",
+            "articles_limit": 40
+        },
+        {
+            "tagname": "oeiras",
+            "articles_limit": 100
+        },
+        {
+            "tagname": "luis correia",
+            "articles_limit": 40
+        },
+        {
+            "tagname": "barra grande",
+            "articles_limit": 40
+        },
+        {
+            "tagname": "santa maria da codipi",
+            "articles_limit": 60
+        },
+        {
+            "tagname": "Poti Velho",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Jacinta Andrade",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Bom Jesus",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Alto Alegre",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Piripiri",
+            "articles_limit": 40
+        },
+        {
+            "tagname": "Campo Maior",
+            "articles_limit": 30
+        },
+        {
+            "tagname": "Angelim",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Lourival Parente",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Macaúba",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Promorar",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Vale do Gavião",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Gurupi",
+            "articles_limit": 20
+        },
+        {
+            "tagname": "Tancredo Neves",
+            "articles_limit": 20
+        }
+    ]
+}
